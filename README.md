@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### GitHub Summary
 
-[![joko0811's GitHub stats](https://github-readme-stats.vercel.app/api?username=joko0811&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joko0811&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![joko0811's GitHub stats](https://github-readme-stats.vercel.app/api?username=joko0811&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joko0811&theme=algolia&layout=compact&exclude_repo=JoyConJog)](https://github.com/anuraghazra/github-readme-stats)
 
 [this is my portfolio](https://joko0811.github.io)
